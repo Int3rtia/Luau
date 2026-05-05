@@ -2,40 +2,51 @@ VoteSkipWave(0, 0) -- Wave: 0,0 | Vtime: 0
 VoteSkipWave(1, 10) -- Wave: 1,10 | Vtime: 11
 VoteSkipWave(2, 14) -- Wave: 2,14 | Vtime: 22
 VoteSkipWave(3, 14) -- Wave: 3,14 | Vtime: 33
-PlaceTower("Pyromancer", 5.250, 1.000, -4.450) -- Wave: 3,3 | Vtime: 35
-VoteSkipWave(4, 6) -- Wave: 4,6 | Vtime: 56
-UpgradeTower(5.250, -4.450) -- Wave: 4,4 | Vtime: 58
-VoteSkipWave(5, 19) -- Wave: 5,19 | Vtime: 72
-VoteSkipWave(6, 20) -- Wave: 6,20 | Vtime: 88
-UpgradeTower(5.250, -4.450) -- Wave: 7,29 | Vtime: 109
-VoteSkipWave(7, 28) -- Wave: 7,28 | Vtime: 110
-VoteSkipWave(8, 19) -- Wave: 8,19 | Vtime: 125
-VoteSkipWave(9, 17) -- Wave: 9,17 | Vtime: 143
-PlaceTower("Crook Boss", 10.189, 1.000, 11.722) -- Wave: 10,25 | Vtime: 154
-VoteSkipWave(10, 19) -- Wave: 10,19 | Vtime: 159
-VoteSkipWave(11, 15) -- Wave: 11,15 | Vtime: 180
-UpgradeTower(10.189, 11.722) -- Wave: 11,3 | Vtime: 182
-VoteSkipWave(13, 19) -- Wave: 13,19 | Vtime: 223
-PlaceTower("Pyromancer", 2.941, 1.000, -24.524) -- Wave: 14,31 | Vtime: 232
-UpgradeTower(2.941, -24.524) -- Wave: 14,30 | Vtime: 234
-VoteSkipWave(14, 24) -- Wave: 14,24 | Vtime: 240
-UpgradeTower(2.941, -24.524) -- Wave: 15,28 | Vtime: 257
-VoteSkipWave(15, 21) -- Wave: 15,21 | Vtime: 265
-PlaceTower("Crook Boss", 6.802, 1.000, 11.777) -- Wave: 16,2 | Vtime: 294
-UpgradeTower(6.802, 11.777) -- Wave: 17,3 | Vtime: 318
-VoteSkipWave(18, 39) -- Wave: 18,39 | Vtime: 342
-UpgradeTower(6.802, 11.777) -- Wave: 19,3 | Vtime: 409
-PlaceTower("Freezer", 2.786, 1.000, 2.665) -- Wave: 20,63 | Vtime: 429
-UpgradeTower(2.786, 2.665) -- Wave: 20,1 | Vtime: 437
-UpgradeTower(2.786, 2.665) -- Wave: 21,60 | Vtime: 438
-VoteSkipWave(21, 39) -- Wave: 21,39 | Vtime: 459
-UpgradeTower(10.189, 11.722) -- Wave: 22,3 | Vtime: 494
-PlaceTower("Pyromancer", -2.851, 1.000, -38.093) -- Wave: 23,1 | Vtime: 520
-UpgradeTower(-2.851, -38.093) -- Wave: 24,59 | Vtime: 521
-UpgradeTower(-2.851, -38.093) -- Wave: 24,34 | Vtime: 546
-VoteSkipWave(24, 2) -- Wave: 24,2 | Vtime: 578
-PlaceTower("Crook Boss", 6.800, 1.000, 8.554) -- Wave: 25,58 | Vtime: 585
-UpgradeTower(6.800, 8.554) -- Wave: 25,56 | Vtime: 587
-PlaceTower("Freezer", 9.982, 1.000, 15.074) -- Wave: 25,44 | Vtime: 599
-UpgradeTower(9.982, 15.074) -- Wave: 25,42 | Vtime: 601
-VoteSkipWave(25, 0) -- Wave: 25,0 | Vtime: 629
+PlaceTower("Pyromancer", 5.141, 1.000, -4.536) -- Wave: 3,4 | Vtime: 34
+PlaceTower("Pyromancer", 5.303, 1.000, -4.244) -- Wave: 3,2 | Vtime: 35
+VoteSkipWave(4, 15) -- Wave: 4,15 | Vtime: 47
+VoteSkipWave(5, 20) -- Wave: 5,20 | Vtime: 63
+VoteSkipWave(6, 19) -- Wave: 6,19 | Vtime: 78
+VoteSkipWave(7, 29) -- Wave: 7,29 | Vtime: 99
+PlaceTower("Crook Boss", 10.339, 1.000, 11.698) -- Wave: 8,29 | Vtime: 106
+VoteSkipWave(8, 19) -- Wave: 8,19 | Vtime: 115
+UpgradeTower(5.303, -4.244) -- Wave: 8,4 | Vtime: 117
+VoteSkipWave(9, 18) -- Wave: 9,18 | Vtime: 133
+UpgradeTower(5.303, -4.244) -- Wave: 10,22 | Vtime: 145
+VoteSkipWave(10, 19) -- Wave: 10,19 | Vtime: 149
+VoteSkipWave(11, 19) -- Wave: 11,19 | Vtime: 165
+UpgradeTower(10.339, 11.698) -- Wave: 11,1 | Vtime: 168
+VoteSkipWave(13, 20) -- Wave: 13,20 | Vtime: 201
+VoteSkipWave(14, 20) -- Wave: 14,20 | Vtime: 221
+VoteSkipWave(15, 27) -- Wave: 15,27 | Vtime: 239
+VoteSkipWave(16, 38) -- Wave: 16,38 | Vtime: 266
+UpgradeTower(10.339, 11.698) -- Wave: 16,4 | Vtime: 267
+PlaceTower("Pyromancer", 3.139, 1.000, -25.578) -- Wave: 17,157 | Vtime: 294
+UpgradeTower(3.139, -25.578) -- Wave: 17,4 | Vtime: 297
+VoteSkipWave(18, 39) -- Wave: 18,39 | Vtime: 321
+UpgradeTower(3.139, -25.578) -- Wave: 18,4 | Vtime: 323
+PlaceTower("Freezer", -2.555, 1.000, -2.709) -- Wave: 18,1 | Vtime: 327
+UpgradeTower(-2.555, -2.709) -- Wave: 19,59 | Vtime: 328
+VoteSkipWave(19, 7) -- Wave: 19,7 | Vtime: 380
+PlaceTower("Crook Boss", 6.998, 1.000, 11.620) -- Wave: 20,77 | Vtime: 388
+UpgradeTower(-2.555, -2.709) -- Wave: 20,72 | Vtime: 392
+UpgradeTower(6.998, 11.620) -- Wave: 20,2 | Vtime: 407
+PlaceTower("Freezer", 2.798, 1.000, 17.339) -- Wave: 21,42 | Vtime: 427
+UpgradeTower(2.798, 17.339) -- Wave: 21,31 | Vtime: 439
+UpgradeTower(2.798, 17.339) -- Wave: 21,4 | Vtime: 443
+UpgradeTower(6.998, 11.620) -- Wave: 23,4 | Vtime: 503
+PlaceTower("Crook Boss", 7.021, 1.000, 8.557) -- Wave: 24,1 | Vtime: 571
+UpgradeTower(7.021, 8.557) -- Wave: 25,59 | Vtime: 572
+PlaceTower("Crook Boss", 7.031, 1.000, 5.357) -- Wave: 25,39 | Vtime: 592
+UpgradeTower(7.031, 5.357) -- Wave: 25,4 | Vtime: 612
+PlaceTower("Pyromancer", 2.896, 1.000, 20.408) -- Wave: 26,58 | Vtime: 618
+UpgradeTower(2.896, 20.408) -- Wave: 26,57 | Vtime: 619
+UpgradeTower(2.896, 20.408) -- Wave: 26,56 | Vtime: 620
+PlaceTower("Crook Boss", 10.376, 1.000, 8.472) -- Wave: 26,5 | Vtime: 671
+UpgradeTower(10.376, 8.472) -- Wave: 26,3 | Vtime: 677
+UpgradeTower(10.376, 8.472) -- Wave: 29,55 | Vtime: 745
+UpgradeTower(7.031, 5.357) -- Wave: 29,50 | Vtime: 750
+UpgradeTower(10.339, 11.698) -- Wave: 31,26 | Vtime: 865
+PlaceTower("Freezer", 13.587, 1.000, 8.435) -- Wave: 31,3 | Vtime: 888
+UpgradeTower(13.587, 8.435) -- Wave: 31,2 | Vtime: 889
+UpgradeTower(13.587, 8.435) -- Wave: 31,2 | Vtime: 889
