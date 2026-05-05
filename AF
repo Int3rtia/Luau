@@ -1,28 +1,31 @@
 VoteSkipWave(0, 0) -- Wave: 0,0 | Vtime: 0
-VoteSkipWave(1, 10) -- Wave: 1,10 | Vtime: 11
-VoteSkipWave(2, 14) -- Wave: 2,14 | Vtime: 22
-VoteSkipWave(3, 14) -- Wave: 3,14 | Vtime: 33
-PlaceTower("Pyromancer", 5.141, 1.000, -4.536) -- Wave: 3,4 | Vtime: 34
+AutoSkipVote()
+-- VoteSkipWave(1, 10) -- Wave: 1,10 | Vtime: 11
+-- VoteSkipWave(2, 14) -- Wave: 2,14 | Vtime: 22
+-- VoteSkipWave(3, 14) -- Wave: 3,14 | Vtime: 33
 PlaceTower("Pyromancer", 5.303, 1.000, -4.244) -- Wave: 3,2 | Vtime: 35
-VoteSkipWave(4, 15) -- Wave: 4,15 | Vtime: 47
-VoteSkipWave(5, 20) -- Wave: 5,20 | Vtime: 63
-VoteSkipWave(6, 19) -- Wave: 6,19 | Vtime: 78
-VoteSkipWave(7, 29) -- Wave: 7,29 | Vtime: 99
+-- VoteSkipWave(4, 15) -- Wave: 4,15 | Vtime: 47
+-- VoteSkipWave(5, 20) -- Wave: 5,20 | Vtime: 63
+-- VoteSkipWave(6, 19) -- Wave: 6,19 | Vtime: 78
+-- VoteSkipWave(7, 29) -- Wave: 7,29 | Vtime: 99
 PlaceTower("Crook Boss", 10.339, 1.000, 11.698) -- Wave: 8,29 | Vtime: 106
-VoteSkipWave(8, 19) -- Wave: 8,19 | Vtime: 115
+-- VoteSkipWave(8, 19) -- Wave: 8,19 | Vtime: 115
 UpgradeTower(5.303, -4.244) -- Wave: 8,4 | Vtime: 117
+StopAutoSkipVote()
 VoteSkipWave(9, 18) -- Wave: 9,18 | Vtime: 133
 UpgradeTower(5.303, -4.244) -- Wave: 10,22 | Vtime: 145
 VoteSkipWave(10, 19) -- Wave: 10,19 | Vtime: 149
 VoteSkipWave(11, 19) -- Wave: 11,19 | Vtime: 165
 UpgradeTower(10.339, 11.698) -- Wave: 11,1 | Vtime: 168
-VoteSkipWave(13, 20) -- Wave: 13,20 | Vtime: 201
-VoteSkipWave(14, 20) -- Wave: 14,20 | Vtime: 221
-VoteSkipWave(15, 27) -- Wave: 15,27 | Vtime: 239
-VoteSkipWave(16, 38) -- Wave: 16,38 | Vtime: 266
+AutoSkipVote()
+-- VoteSkipWave(13, 20) -- Wave: 13,20 | Vtime: 201
+-- VoteSkipWave(14, 20) -- Wave: 14,20 | Vtime: 221
+-- VoteSkipWave(15, 27) -- Wave: 15,27 | Vtime: 239
+-- VoteSkipWave(16, 38) -- Wave: 16,38 | Vtime: 266
 UpgradeTower(10.339, 11.698) -- Wave: 16,4 | Vtime: 267
 PlaceTower("Pyromancer", 3.139, 1.000, -25.578) -- Wave: 17,157 | Vtime: 294
 UpgradeTower(3.139, -25.578) -- Wave: 17,4 | Vtime: 297
+StopAutoSkipVote()
 VoteSkipWave(18, 39) -- Wave: 18,39 | Vtime: 321
 UpgradeTower(3.139, -25.578) -- Wave: 18,4 | Vtime: 323
 PlaceTower("Freezer", -2.555, 1.000, -2.709) -- Wave: 18,1 | Vtime: 327
