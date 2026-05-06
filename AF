@@ -53,3 +53,37 @@ UpgradeTower(10.339, 11.698) -- Wave: 31,26 | Vtime: 865
 PlaceTower("Freezer", 13.587, 1.000, 8.435) -- Wave: 31,3 | Vtime: 888
 UpgradeTower(13.587, 8.435) -- Wave: 31,2 | Vtime: 889
 UpgradeTower(13.587, 8.435) -- Wave: 31,2 | Vtime: 889
+-- new
+UpgradeTower(6.998, 11.620) -- Wave: 32,1 | Vtime: 0
+UpgradeTower(-2.555, -2.709) -- Wave: 33,49 | Vtime: 12
+UpgradeTower(5.303, -4.244) -- Wave: 33,47 | Vtime: 15
+UpgradeTower(7.021, 8.557) -- Wave: 34,78 | Vtime: 78
+UpgradeTower(-2.555, -2.709) -- Wave: 34,75 | Vtime: 81
+UpgradeTower(10.376, 8.472) -- Wave: 35,50 | Vtime: 172
+UpgradeTower(7.021, 8.557) -- Wave: 35,2 | Vtime: 218
+UpgradeTower(5.303, -4.244) -- Wave: 36,208 | Vtime: 251
+UpgradeTower(2.798, 17.339) -- Wave: 36,199 | Vtime: 260
+UpgradeTower(2.896, 20.408) -- Wave: 36,196 | Vtime: 263
+UpgradeTower(7.031, 5.357) -- Wave: 36,67 | Vtime: 390
+UpgradeTower(5.303, -4.244) -- Wave: 36,65 | Vtime: 392
+UpgradeTower(2.896, 20.408) -- Wave: 36,63 | Vtime: 394
+UpgradeTower(2.798, 17.339) -- Wave: 36,60 | Vtime: 397
+UpgradeTower(2.896, 20.408) -- Wave: 36,4 | Vtime: 398
+UpgradeTower(13.587, 8.435) -- Wave: 36,2 | Vtime: 400
+PlaceTower("Freezer", -3.466, 1.000, -25.417) -- Wave: 37,79 | Vtime: 404
+UpgradeTower(-3.466, -25.417) -- Wave: 37,75 | Vtime: 407
+UpgradeTower(-3.466, -25.417) -- Wave: 37,74 | Vtime: 407
+useAbility0("Frost Grenade", -2.555, -2.709, 429) -- Wave: 37,53 | Vtime: 429
+useAbility0("Frost Grenade", 2.798, 17.339, 436) -- Wave: 37,46 | Vtime: 436
+useAbility0("Frost Grenade", -2.555, -2.709, 448) -- Wave: 37,34 | Vtime: 448
+UpgradeTower(-3.466, -25.417) -- Wave: 38,76 | Vtime: 456
+UpgradeTower(-3.466, -25.417) -- Wave: 38,76 | Vtime: 456
+UpgradeTower(3.139, -25.578) -- Wave: 38,74 | Vtime: 458
+UpgradeTower(3.139, -25.578) -- Wave: 38,74 | Vtime: 459
+UpgradeTower(3.139, -25.578) -- Wave: 38,73 | Vtime: 459
+useAbility0("Frost Grenade", -2.555, -2.709, 469) -- Wave: 38,63 | Vtime: 469
+useAbility0("Frost Grenade", 2.798, 17.339, 475) -- Wave: 38,57 | Vtime: 475
+useAbility0("Frost Grenade", -3.466, -25.417, 478) -- Wave: 38,54 | Vtime: 478
+useAbility0("Frost Grenade", -2.555, -2.709, 485) -- Wave: 38,47 | Vtime: 485
+useAbility0("Frost Grenade", 2.798, 17.339, 492) -- Wave: 38,41 | Vtime: 492
+useAbility0("Frost Grenade", -3.466, -25.417, 494) -- Wave: 38,38 | Vtime: 494
