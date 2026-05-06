@@ -54,7 +54,7 @@ PlaceTower("Freezer", 13.587, 1.000, 8.435) -- Wave: 31,3 | Vtime: 888
 UpgradeTower(13.587, 8.435) -- Wave: 31,2 | Vtime: 889
 UpgradeTower(13.587, 8.435) -- Wave: 31,2 | Vtime: 889
 -- new
---[[ UpgradeTower(6.998, 11.620) -- Wave: 32,1 | Vtime: 0
+UpgradeTower(6.998, 11.620) -- Wave: 32,1 | Vtime: 0
 UpgradeTower(-2.555, -2.709) -- Wave: 33,49 | Vtime: 12
 UpgradeTower(5.303, -4.244) -- Wave: 33,47 | Vtime: 15
 UpgradeTower(7.021, 8.557) -- Wave: 34,78 | Vtime: 78
@@ -87,4 +87,3 @@ useAbility0("Frost Grenade", -3.466, -25.417, 478) -- Wave: 38,54 | Vtime: 478
 useAbility0("Frost Grenade", -2.555, -2.709, 485) -- Wave: 38,47 | Vtime: 485
 useAbility0("Frost Grenade", 2.798, 17.339, 492) -- Wave: 38,41 | Vtime: 492
 useAbility0("Frost Grenade", -3.466, -25.417, 494) -- Wave: 38,38 | Vtime: 494
-]] 
