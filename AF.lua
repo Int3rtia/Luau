@@ -87,3 +87,4 @@ useAbility0("Frost Grenade", -3.466, -25.417, 478) -- Wave: 38,54 | Vtime: 478
 useAbility0("Frost Grenade", -2.555, -2.709, 485) -- Wave: 38,47 | Vtime: 485
 useAbility0("Frost Grenade", 2.798, 17.339, 492) -- Wave: 38,41 | Vtime: 492
 useAbility0("Frost Grenade", -3.466, -25.417, 494) -- Wave: 38,38 | Vtime: 494
+NewLoadoutTower("Accelerator")
